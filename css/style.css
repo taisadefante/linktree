@@ -57,3 +57,28 @@ h3 {
 .social a img {
   width: 30px;
 }
+
+.link-list {
+  list-style: none;
+  padding: 10px;
+}
+
+.link-list li {
+  margin: 10px 20px;
+}
+
+.link-list a {
+  background: white;
+  padding: 15px 20px;
+  display: block;
+  text-decoration: none;
+  color: black;
+  border-radius: 4px;
+  box-shadow: 0 0 20px white;
+}
+
+.link-list a span {
+  color: grey;
+  display: block;
+  margin-top: 10px;
+}
